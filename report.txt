@@ -1,0 +1,58 @@
+CYBER SECURITY INTERNSHIP
+
+Task 6: Create a Strong Password and Evaluate Its Strength
+
+Objective:
+To understand password security and evaluate password strength using an online password strength checker.
+
+Tool Used:
+PasswordMeter (https://www.passwordmeter.com)
+
+Passwords Tested:
+
+1. welcome2026
+   Expected Strength: Weak
+
+2. Satya_Kumar26
+   Expected Strength: Medium
+
+3. Vijayawada@26
+   Expected Strength: Strong
+
+4. C0de!Learn@2026
+   Expected Strength: Very Strong
+
+5. Sky#River$Mountain2026!
+   Expected Strength: Excellent
+
+Observations:
+
+- Short and common passwords are easier to crack.
+- Passwords containing uppercase letters, lowercase letters, numbers, and symbols are more secure.
+- Longer passwords significantly improve security.
+- Complex passwords are more resistant to brute-force and dictionary attacks.
+
+Common Password Attacks:
+
+1. Brute Force Attack
+   An attacker tries every possible password combination until the correct one is found.
+
+2. Dictionary Attack
+   An attacker uses a list of common words and passwords to guess credentials.
+
+Password Security Best Practices:
+
+- Use passwords with at least 12-16 characters.
+- Include uppercase letters, lowercase letters, numbers, and special symbols.
+- Avoid using personal information such as names or birthdays.
+- Use unique passwords for different accounts.
+- Enable Multi-Factor Authentication (MFA).
+- Consider using a password manager.
+
+Conclusion:
+
+Password strength depends on length, complexity, and uniqueness. Strong passwords help protect accounts from unauthorized access and reduce the risk of successful password attacks.
+
+Outcome:
+
+Successfully understood password security concepts and evaluated password strength using an online password strength checker.
